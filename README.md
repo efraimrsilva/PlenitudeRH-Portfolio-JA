@@ -99,7 +99,7 @@ OU
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/Efrals/PlenitudeRH-Portfolio-JA.git
+   git clone https://github.com/efraimrsilva/PlenitudeRH-Portfolio-JA.git
    ```
 2. Acesse a pasta do projeto:
    ```bash
@@ -113,4 +113,4 @@ OU
 
 ## 👨‍💻 Desenvolvimento
 
-Feito com 💖 por [Efraim Silva](https://www.linkedin.com/in/efraimrocha/)
+Feito com 💖 por [Efraim R. Silva](https://www.linkedin.com/in/efraimrsilva/)
