@@ -97,7 +97,11 @@ OU
 
 1. Clone este repositório:
    ```bash
+<<<<<<< HEAD
    git clone https://github.com/Efrals/PeopleSolutionsHR-Portfolio-JA.git
+=======
+   git clone https://github.com/efraimrsilva/PlenitudeRH-Portfolio-JA.git
+>>>>>>> cc7268d9dac543e0d1bd968c91cc251c4f8da05b
    ```
 2. Acesse a pasta do projeto:
    ```bash
@@ -111,4 +115,4 @@ OU
 
 ## 👨‍💻 Desenvolvimento
 
-Feito com 💖 por [Efraim Silva](https://www.linkedin.com/in/efraimrocha/)
+Feito com 💖 por [Efraim R. Silva](https://www.linkedin.com/in/efraimrsilva/)
