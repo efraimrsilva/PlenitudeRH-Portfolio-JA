@@ -1,14 +1,14 @@
-# 🌐 PlenitudeRH – Consultoria em Gestão de Pessoas e RH Estratégico
+# 🌐 PeopleSolutionsHR – Consultoria em Gestão de Pessoas e RH
 
 ## 📖 Sobre o Projeto
 
-O **PlenitudeRH** é um site institucional desenvolvido para apresentar a consultoria de **Jaqueline Araújo**, especialista em **Gestão de Pessoas e RH Estratégico**.
+O **People Solutions HR** é um site institucional desenvolvido para apresentar a consultoria de **Jaqueline Araújo**, especialista em **Gestão de Pessoas e RH Estratégico**.
 
 O projeto tem como objetivo transmitir credibilidade, destacar serviços oferecidos, apresentar clientes e depoimentos, além de facilitar o contato com potenciais clientes.
 
 ## 📷 Preview
 
-<img src="assets/image/PreviewPlenitudeRH.gif" alt="Preview PlenitudeRH" width="850"/>
+<img src="assets/image/PreviewPeopleSolutionsHR.gif" alt="Preview PeopleSolutionsHR" width="850"/>
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -22,13 +22,11 @@ O projeto tem como objetivo transmitir credibilidade, destacar serviços ofereci
 ## ⚙️ Recursos Técnicos
 
 - **SEO e Compartilhamento Social**
-
   - Meta tags (`description`, `robots`)
   - Open Graph (Facebook/LinkedIn) e Twitter Card configurados
   - Dados estruturados JSON-LD (`ProfessionalService`)
 
 - **Responsividade**
-
   - Layout adaptado para **desktop, tablet e mobile**
   - Uso de **CSS Grid** e **Flexbox**
 
@@ -93,17 +91,17 @@ Quatro áreas de atuação estratégicas
 
 ## 🚀 Como Executar o Projeto
 
-Entre no site: [PlenitudeRH](https://plenituderh.netlify.app)
+Entre no site: [PeopleSolutionsHR](https://people-solutions-hr.netlify.app)
 
 OU
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/Efrals/PlenitudeRH-Portfolio-JA.git
+   git clone https://github.com/Efrals/PeopleSolutionsHR-Portfolio-JA.git
    ```
 2. Acesse a pasta do projeto:
    ```bash
-   cd plenitude-rh
+   cd people-solutions-hr
    ```
 3. Abra o arquivo `index.html` diretamente no navegador.
 

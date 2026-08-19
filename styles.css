@@ -874,7 +874,7 @@ section {
 }
 
 /* Responsive Design */
-@media (max-width: 925px) {
+@media (max-width: 1108px) {
   .hero {
     padding-top: 125px;
   }
