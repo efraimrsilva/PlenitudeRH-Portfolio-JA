@@ -91,17 +91,13 @@ Quatro áreas de atuação estratégicas
 
 ## 🚀 Como Executar o Projeto
 
-Entre no site: [PeopleSolutionsHR](https://people-solutions-hr.netlify.app)
+Entre no site: [PeopleSolutionsHR](https://peoplesolutionshr.netlify.app)
 
 OU
 
 1. Clone este repositório:
    ```bash
-<<<<<<< HEAD
-   git clone https://github.com/Efrals/PeopleSolutionsHR-Portfolio-JA.git
-=======
    git clone https://github.com/efraimrsilva/PlenitudeRH-Portfolio-JA.git
->>>>>>> cc7268d9dac543e0d1bd968c91cc251c4f8da05b
    ```
 2. Acesse a pasta do projeto:
    ```bash

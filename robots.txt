@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://people-solutions-hr.netlify.app/sitemap.xml
+Sitemap: https://peoplesolutionshr.netlify.app/sitemap.xml
