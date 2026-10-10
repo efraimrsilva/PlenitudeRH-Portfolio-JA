@@ -865,7 +865,8 @@ section {
 }
 
 .dev {
-  color: rgba(255, 255, 255);
+  color: inherit;
+  font: inherit;
   transition: color 0.3s, text-shadow 0.3s;
 }
 
